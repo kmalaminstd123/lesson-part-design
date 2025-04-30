@@ -80,6 +80,7 @@
     background-color: #fff;
     box-shadow: 0 0 10px rgba(34, 34, 34, 0.05);
     transition: transform 0.3s ease, box-shadow 0.3s ease;
+    margin-bottom: 10px;
   }
   
   .lesson-main-list:hover {
@@ -117,10 +118,14 @@
 
 
 .mod-dn-btn {
-    background-color: #844b60;
+    background-color: #2a5266;
     border-radius: 40px;
     color: #fff;
     padding: 10px 20px;
+}
+
+.mod-dn-btn:hover{
+    border-color: #2a5266;
 }
 
 .d-l-i {
